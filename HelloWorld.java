@@ -1,3 +1,11 @@
+# Programmers: Miles  
+# Course:  CS212
+# Due Date: 2/1/24
+# Lab Assignment: In class activity
+# Problem Statement:  
+# Data In: Hill type, velocity 
+# Data Out:  Points, disatnce
+# Credits: N/A
 import java.util.Scanner;
 
 public class Main {
